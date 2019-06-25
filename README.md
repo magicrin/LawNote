@@ -1,4 +1,4 @@
-# LawNote
+# LawNote on GitHub
 magicrin's Note(Law)
 
 This repo is very unique challenge.
